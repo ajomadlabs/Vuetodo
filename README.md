@@ -19,8 +19,7 @@ This method dispatches an action to add item to the todo list
 
 `completeItem(itemPassed)`
 
-This method dispatches an action to delete item which is complete from todo list<br>
-and add it to the completedlist.
+This method dispatches an action to delete item which is complete from todo list and add it to the completedlist.
 
 This makes uses of Vuex for maintaining the states.
 
