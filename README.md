@@ -4,14 +4,14 @@ This aims to help Vue beginners to get started with Vue and understand Vue, Vuex
 
 # Project Overview
 
-This project contains a single component called the TodoComponent. This component helps to enter the tasks, mark tasks that are completed <br>
+This project contains a single component called the TodoComponent. This component helps to enter the tasks, mark tasks that are completed
 and render the completed tasks.
 
 This makes use of two methods:
 
-- addItem()
+- `addItem()`
 
-- completeItem(itemPassed)
+- `completeItem(itemPassed)`
 
 `addItem()`
 
